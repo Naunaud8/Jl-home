@@ -33,6 +33,7 @@ header{
 
 .logo span{
     color: #a80c0c;
+    font-family: "Michroma", sans-serif;
 }
 
 .navbar{
@@ -734,6 +735,7 @@ header.sticky li a:hover{
             text-align: center;
             justify-content: center;
             width: auto;
+            width: 560px;
         }
 
         .contact{
